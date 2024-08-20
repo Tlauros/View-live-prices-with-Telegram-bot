@@ -16,4 +16,4 @@ after That you have to install package with pip :
 
 According to the project you created, add and run the following files: main.py config.py __init__.py and _pytransform.dll 
 
-Done :D
+Done.
